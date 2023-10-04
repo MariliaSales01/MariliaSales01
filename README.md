@@ -1,16 +1,8 @@
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaSales01_icons=true&theme=dracula&count_private=true)
-
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MariliaSales01&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-MariliaSales01.vercel.app/api/top-langs/?username=MariliaSales01&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
@@ -34,7 +26,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href = "mailto:contato.marisales194@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
