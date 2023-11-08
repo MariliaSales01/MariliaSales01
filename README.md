@@ -18,6 +18,7 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Editor de código:
 
