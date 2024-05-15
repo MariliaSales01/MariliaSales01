@@ -1,10 +1,13 @@
+## Olá! Eu sou a Marilia Sales
 
-<div>
+- 👩‍💻 Tecnico em desenvolvimento de sistemas 
+- 🌱 Estudando TypeScript
+
+<div align="center" >
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariliaSales01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaSales01&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaSales01&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-
 
 <div  align="center"> 
  <h1>Minhas Habilidades</h1>
@@ -21,9 +24,6 @@
     <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
   </div>
-
-
-
 
 ## Contatos:
 
